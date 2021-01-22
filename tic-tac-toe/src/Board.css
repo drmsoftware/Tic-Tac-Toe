@@ -1,0 +1,18 @@
+.board {
+  flex-wrap: wrap;
+  display: grid;
+  border-left: 100px transparent;
+  border-top: 100px solid transparent;
+  border-bottom: 60px solid transparent;
+  margin-left: -300px;
+  margin-top: 50px;
+  position: relative;
+  left: 50%;
+  top: 50%;
+}
+
+.reset__button {
+  margin-top: 20px;
+
+  text-align: center;
+}
